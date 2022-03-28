@@ -28,5 +28,5 @@ ideas for blog
  --- memleak
  --- the (daily) data leak
  --- the honey pots
- --- the hash slinging salters
+ --- the hash slinging salters / the hash salting slasher
  --- the SecBlog (temp)
