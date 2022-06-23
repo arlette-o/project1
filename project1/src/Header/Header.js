@@ -1,9 +1,10 @@
+import { Flex } from '@chakra-ui/react'
 const Header = () => {
    return (
-     <div>
+     <Flex bg="#4EBCA2" align="flex-end">
        {/*Header Code*/}
-       Project One
-     </div>
+       Cute home button here
+     </Flex>
    );
  }
  
